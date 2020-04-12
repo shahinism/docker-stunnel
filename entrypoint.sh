@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-cd /etc/stunnel || exit
+cd /etc/stunnel || exit 1
 
 cat > stunnel.conf <<_EOF_
 cert = /etc/stunnel/stunnel.pem

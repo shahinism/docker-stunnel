@@ -3,6 +3,9 @@
 
 <a href="https://hub.docker.com/r/shahinism/stunnel" alt="Docker Cloud Build">
  <img src="https://img.shields.io/docker/cloud/build/shahinism/stunnel"/></a>
+ 
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fshahinism%2Fdocker-stunnel?ref=badge_shield" alt="FOSSA Status">
+  <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshahinism%2Fdocker-stunnel.svg?type=shield"/></a>
 
 # Docker Stunnel
 

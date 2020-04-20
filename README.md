@@ -49,3 +49,6 @@ Please make sure to update the tests as appropriate.
 
 This project is licensed under the MIT License - see the
 [LICENSE](LICENSE) file for details
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshahinism%2Fdocker-stunnel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshahinism%2Fdocker-stunnel?ref=badge_large)
